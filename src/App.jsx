@@ -35,7 +35,7 @@ function App(){
 
   return(
     <div>
-      <h1>Registration Form</h1>
+      <h1>Registration Form - New Feature</h1>
 
       <form onSubmit={handleSubmit}>
 
